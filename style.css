@@ -4,13 +4,38 @@ body {
 }
 p {
     color: coral;
+    font-family: URW Chancery L, cursive;
 }
 h1 {
     font-family: DejaVu Sans Mono, monospace;
 }
 #p1 {
     color: black;
+    font-family: URW Chancery L, cursive;
 }
 img {
     margin: 10px;
+}
+#p4 {
+    color: coral;
+    font-family: DejaVu Sans Mono, monospace;
+}
+.j {
+    font-family: URW Chancery L, cursive;
+    color: black;
+    text-align: right;
+}
+h2 {
+    font-family: URW Chancery L, cursive; 
+    color: coral;
+}
+li {
+    display: inline; 
+    margin-right: 5px;
+     padding: 3px;
+    font-family: URW Chancery L, cursive;
+    cursor: pointer;
+}
+.t {
+    color: coral;
 }
